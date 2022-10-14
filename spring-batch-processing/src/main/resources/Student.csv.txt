@@ -1,0 +1,3 @@
+rollNumber	StudentName	markScore
+123	nikki	90
+234	liki	80
